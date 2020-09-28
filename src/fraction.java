@@ -1,9 +1,9 @@
 
-public class Fraction {
+public class fraction {
 	private int numerateur;
 	private int denominateur;
 	
-	public Fraction(int num, int denum) {
+	public fraction(int num, int denum) {
 		numerateur = num;
 		denominateur = denum;
 	}

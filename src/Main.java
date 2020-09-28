@@ -6,7 +6,7 @@ public class Main {
 		int num = 5;
 		int denum = 10;
 		
-		Fraction fraction = new Fraction(num,denum);
+		fraction fraction = new fraction(num,denum);
 		System.out.println(fraction.toString());
 	}
 
