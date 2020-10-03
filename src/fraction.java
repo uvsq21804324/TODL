@@ -9,6 +9,6 @@ public class fraction {
 	}
 	public String toString() {
 		   return "Numerateur: " + this.numerateur +
-			  "\nDenoinateur: " + this.denominateur + "\n" + this.numerateur/this.denominateur;
+			  "\nDenoinateur: " + this.denominateur + "\n= " + this.numerateur/this.denominateur;
 	}
 }
